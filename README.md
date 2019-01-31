@@ -3,11 +3,13 @@
 **其实将redis安装成windows服务的文章目前已经很多了，不过我在根据他们的提示操作的时候还是踩了不少的坑。所以我就参考他们的文档和自身经历写出这篇博客供自己和有需要的童鞋参考。我这里重点要介绍的是在一台windows服务器上部署多个redis出来供多个项目使用。**
 
  **一、下载安装包**
+ 
 
 redis:https://github.com/MicrosoftArchive/redis/releases
 RedisDesktopManager:
 redis可以下载.msi文件或者.zip压缩包，至于两者的区别下方会讲到。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190129171308590.?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMyNTc0NDM1,size_16,color_FFFFFF,t_70)
+
 
 **二、安装方式**
 

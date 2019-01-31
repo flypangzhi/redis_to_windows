@@ -8,6 +8,7 @@ redis:https://github.com/MicrosoftArchive/redis/releases
 RedisDesktopManager:
 redis可以下载.msi文件或者.zip压缩包，至于两者的区别下方会讲到。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190129171308590.?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMyNTc0NDM1,size_16,color_FFFFFF,t_70)
+
 **二、安装方式**
 
 对于安装方式，其实在上面说的.zip包里的Windows Service Documentation.docx就已经记载有了，总的来说有两种：
@@ -54,6 +55,7 @@ redis可以下载.msi文件或者.zip压缩包，至于两者的区别下方会�
 **8、使用客户端输入ip去连接redis并测试连接**
 
 输入登录信息之后点击test connection，如果成功将会弹出下图弹框，否则即是失败。可参考文章末尾的链接开放端口或者修改配置文件并且卸载和重新安装服务。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190129185614683.?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMyNTc0NDM1,size_16,color_FFFFFF,t_70)
 
 ## 结语

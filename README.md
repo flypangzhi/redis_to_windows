@@ -4,12 +4,11 @@
 
  **一、下载安装包**
  
-
 redis:https://github.com/MicrosoftArchive/redis/releases
 RedisDesktopManager:
 redis可以下载.msi文件或者.zip压缩包，至于两者的区别下方会讲到。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190129171308590.?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMyNTc0NDM1,size_16,color_FFFFFF,t_70)
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190129171308590.?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMyNTc0NDM1,size_16,color_FFFFFF,t_70)
 
 **二、安装方式**
 

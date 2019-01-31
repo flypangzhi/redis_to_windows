@@ -40,9 +40,13 @@ redis可以下载.msi文件或者.zip压缩包，至于两者的区别下方会�
 **4、执行安装命令redis-server --service-install redis.windows-service.conf  --service-name redis-6679**
 
 **备注：文章开头提及的官方文档是采用带有端口命令安装，比如说：redis-server --service-install --service-name redisService1 --port 10001 或者 redis-server --service-install redis.windows-service.conf --service-name redis-6679 --port 10001。其实我并不推荐这种方式，因为就算你指定了配置文件，安装之后也不会对配置文件端口号进行修改，要是以后查看配置文件的话可能会产生误解。**
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190129180450612.?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMyNTc0NDM1,size_16,color_FFFFFF,t_70)
+
 **5、执行启动命令redis-server --service-start --service-name redis-6679**
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190129184130681.?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMyNTc0NDM1,size_16,color_FFFFFF,t_70)
+
 **6、卸载服务命令 redis-server --service-uninstall --service-name redis-6679**
 
 **7、停止服务命令 redis-server --service-stop --service-name redis-6679**

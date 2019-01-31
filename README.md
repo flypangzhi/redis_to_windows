@@ -59,6 +59,9 @@ redis可以下载.msi文件或者.zip压缩包，至于两者的区别下方会�
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190129185614683.?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMyNTc0NDM1,size_16,color_FFFFFF,t_70)
 
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190131100256696.png)
+
 ## 结语
 
 **对于安装这个我个人建议还是一个redis一个文件夹的格式，这样方便管理，避免出错。然后如果按照我的方法安装了但是用客户端无法连接，这个时候可以参考下方的连接修改配置文件和卸载重新安装服务即可。通过这种方式我们就可以在一台电脑上部署多个redis了，不管是学习还是内网测试都可以起到很大的帮助。**

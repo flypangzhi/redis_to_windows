@@ -66,10 +66,15 @@ redis可以下载.msi文件或者.zip压缩包，至于两者的区别下方会�
 ## 参考链接
 
 [windows下配置多redis实例](https://blog.csdn.net/tmtongming/article/details/80590079)
+
 [Windows下安装redis服务](https://www.cnblogs.com/xuzhiwei/p/4569315.html)
+
 [开放windows服务器端口](https://blog.csdn.net/zzq900503/article/details/11936379)
+
 [解决不能使用ip访问主机redis](https://blog.csdn.net/sinat_34191046/article/details/82979664)
+
 [redis.windows.conf各项配置参数介绍](https://blog.csdn.net/tian330114067/article/details/78059204)
+
 
 
 
